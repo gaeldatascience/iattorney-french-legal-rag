@@ -1,0 +1,6 @@
+.env
+__pycache__/
+data/*.faiss
+data/faiss_juridique_code_with_metadatas/
+data/*.pq
+camembert_model/
