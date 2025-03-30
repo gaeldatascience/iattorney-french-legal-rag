@@ -48,7 +48,7 @@ This project follows a structured Retrieval-Augmented Generation (RAG) pipeline 
 ## Project Structure
 
 ```
-IAttorney-RAG/
+iattorney-french-legal-rag/
 ├── app.py                      # Flask web app entry point
 ├── config.py                   # Configuration (e.g., API keys)
 ├── requirements.txt            # Python dependencies
