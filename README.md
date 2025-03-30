@@ -35,7 +35,6 @@ This project follows a structured Retrieval-Augmented Generation (RAG) pipeline 
 - **Decomposition**: The question is broken down into sub-questions to improve retrieval relevance.
 - **HyDE (Hypothetical Document Embeddings)**: Hypothetical answers are generated to guide document search.
 - **Retrieval**: Relevant legal documents are fetched from FAISS.
-- ****
 - **Response Generation**: The final answer is generated using OpenAI’s LLM (e.g., GPT) with the retrieved context and question.
 
 ### 4. Web Application (Flask UI)
