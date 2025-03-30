@@ -128,9 +128,9 @@ Create a `config.py` file with:
 OPENAI_API_KEY=your_openai_api_key_here
 # Secret key used for Flask session signing (can be any strong random string)
 SECRET_KEY=your_flask_secret_key_here
-# Path to the local FAISS index containing the vectorized legal documents (no need to change)
+# Path to the local FAISS index containing the vectorized legal documents
 FAISS_PATH=data/faiss_juridique_code_with_metadatas
-# Name or path of the embedding model to be used (no need to change)
+# Name or path of the embedding model to be used
 EMBEDDING_MODEL=camembert_model
 # (Optional) LangSmith tracing settings for debugging and observability
 LANGSMITH_TRACING_V2=true
