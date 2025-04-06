@@ -146,7 +146,7 @@ Set your API keys (OpenAI, etc.) using environment variables or a `.env` file.
 
 - **Integrate Jurisprudence**: Retrieve legal precedents (e.g., from Legifrance) — currently limited by scraping restrictions.
 - **Enrich Legal Sources**: Use annotated legal codes (e.g., LexisNexis, Dalloz) to provide deeper context and legal interpretations.
-- **Specialized Chains**: Add dedicated LangChain chains for specific types of legal questions (e.g., definitions, procedures, penalties) to improve accuracy and relevance.
+- **Specialized Chains**: Add dedicated chains for specific types of legal questions (e.g., definitions, procedures, penalties) to improve accuracy and relevance.
 - **Answer Evaluation**: Evaluate response quality using a manually annotated dataset to measure legal correctness and completeness.
 
 ---
